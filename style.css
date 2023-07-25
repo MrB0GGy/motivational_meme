@@ -1,0 +1,21 @@
+body {
+    background: black;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+.harold-image {
+    border: 5px solid white;
+    width: 100%;
+}
+
+.harold {
+    margin-left: 25%;
+    margin-top: 5%;
+    text-align: center;
+    width: 50%;
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+}
